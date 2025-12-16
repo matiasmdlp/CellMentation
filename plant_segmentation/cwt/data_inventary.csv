@@ -1,0 +1,70 @@
+id,id orginal img,id after split,labeled by,id label studio (task),true labels
+1,1,1,Cristóbal,1,"normal, normal_cut, noise"
+2,1,3,Cristóbal,2,"normal, normal_cut, noise"
+3,1,10,Cristóbal,3,"normal, normal_cut, noise"
+4,1,12,Cristóbal,4,"normal, normal_cut, noise"
+5,1,13,Cristóbal,5,"normal, normal_cut, noise"
+6,1,24,Cristóbal,6,"normal, normal_cut, noise"
+7,1,32,Cristóbal,7,"normal, normal_cut"
+8,1,33,Cristóbal,8,"normal, noise"
+9,1,34,Cristóbal,9,normal_cut
+10,1,43,Cristóbal,10,"normal, normal_cut, noise"
+11,1,73,Cristóbal,11,"normal, normal_cut, noise"
+12,1,74,Cristóbal,12,"normal, noise"
+13,1,75,Cristóbal,13,normal
+14,1,86,Cristóbal,14,"normal, normal_cut, noise"
+15,1,94,Cristóbal,15,"normal, normal_cut, noise"
+16,1,95,Edward,75,"normal, normal_cut"
+17,1,97,Edward,76,"normal, normal_cut"
+18,2,11,Edward,77,"normal, normal_cut"
+19,2,15,Edward,78,"normal, normal_cut, noise"
+20,2,23,Edward,79,"normal, normal_cut"
+21,2,24,Cristóbal,,
+22,2,31,Edward,80,"normal, normal_cut, noise"
+23,2,32,Edward,81,"normal, normal_cut"
+24,2,41,Edward,82,"normal, normal_cut, noise"
+25,2,45,Edward,83,"normal, normal_cut"
+26,2,47,Edward,84,"normal, normal_cut, noise"
+27,2,48,Edward,85,noise
+28,2,58,Edward,86,"normal, normal_cut, noise"
+29,2,60,Edward,87,"normal, normal_cut, noise"
+30,2,62,Edward,88,"normal, normal_cut, noise"
+31,2,65,Edward,89,
+32,2,67,Edward,90,
+33,2,73,Edward,91,
+34,2,74,Edward,92,
+35,2,76,Edward,93,
+36,2,77,Edward,94,
+37,2,82,Edward,95,
+38,2,84,Edward,96,
+39,2,95,Edward,97,
+40,3,4,Edward,98,"normal, normal_cut, noise"
+41,3,5,Edward,99,"normal, noise"
+42,3,6,Edward,100,"normal, normal_cut, noise"
+43,3,7,Edward,101,"normal, noise"
+44,3,13,Edward,102,"normal, normal_cut, noise"
+45,3,14,Edward,103,"normal, normal_cut"
+46,3,15,Edward,104,"normal, normal_cut, noise"
+47,3,16,Edward,105,
+48,3,24,Edward,106,
+49,3,25,Edward,107,
+50,3,26,Edward,108,
+51,3,46,Edward,109,
+52,3,54,Edward,110,
+53,3,55,Edward,111,
+54,3,65,Edward,112,
+55,3,68,Edward,113,
+56,3,75,Edward,114,
+57,3,86,Edward,115,
+58,3,95,Edward,116,
+59,3,96,Edward,117,
+60,4,3,Ricardo,11,"normal, normal_cut, noise"
+61,4,6,Ricardo,12,"normal, normal_cut, noise"
+62,4,14,Ricardo,13,"normal, normal_cut"
+63,4,35,Ricardo,14,"normal, normal_cut, noise"
+64,4,44,Ricardo,15,"normal, normal_cut, noise"
+65,4,45,Ricardo,16,"normal, noise"
+66,4,55,Ricardo,17,"normal, normal_cut, noise"
+67,4,65,Ricardo,18,"normal, normal_cut, noise"
+68,4,67,Ricardo,19,"normal, normal_cut, noise"
+69,4,76,Ricardo,20,"normal, normal_cut, noise"
